@@ -1,0 +1,11 @@
+{
+  "version": "3.1.0",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v3.0.apk",
+  "forceUpdate": false,
+  "releaseNotes": [
+    "අලුත් Drag & Drop Toolbar Customizer (Tools Hub) පහසුකම",
+    "iOS 26.4 Emoji Mode සහ iOS Key Click Sound වැඩිදියුණු කිරීම්",
+    "Termux Paste සහ Theme Switching වේගවත් කරන ලදී"
+  ]
+}
