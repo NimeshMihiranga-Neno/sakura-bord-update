@@ -1,13 +1,12 @@
 {
-  "version": "1.0.6",
-  "versionCode": 10,
+  "version": "1.0.7",
+  "versionCode": 11,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "New 1x1 Compact Home Screen Day Counter Widget with full dynamic resizability",
-    "Constant Background Color Mode: No flashing or color-shifting backgrounds",
-    "Aesthetic Living Motion: Sea Waves (මුහුදේ රැලි) and Falling Petals (මල් වැටෙන) smooth animated particles just like the keyboard spacebar footer",
-    "Custom typography font rendering with clean 1x1 responsive layouts",
-    "Ultra-Professional Glassmorphism app dashboard redesign"
+    "Ultra-Clean Calm Zen Aesthetic: Tranquil Ocean White waves and drifting petals vector art without flickering",
+    "Eliminated frame refresh flicker: Replaced choppy ViewFlipper with unified high-res vector canvas",
+    "Clean, advanced & professional 1x1 typography layout with big crisp day number and tracking labels",
+    "Full launcher resizability: scales smoothly from 1x1 squircle to large hero widget cards"
   ]
 }
