@@ -1,13 +1,13 @@
 {
-  "version": "1.0.3",
-  "versionCode": 7,
+  "version": "1.0.4",
+  "versionCode": 8,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "New Feature: 🌸 Day Counter & Living Animated Home Screen Widget!",
-    "Customize Special Days, Notes, Anniversaries, Love Days & Exam Countdowns",
-    "6 Gorgeous Breathing Animated Themes: Sakura Dream, Love Romance, Cyber Neon, Gold Sparkle, Midnight Star & Emerald Fresh",
-    "Interactive Live Preview Card with 1-Tap 'Add Widget to Home Screen'",
-    "1,000+ Rich Emojis & Expanded Math, Currency & Keyboard Symbols"
+    "New Calm Vibe & Ocean White Animated Themes for Day Counter Widget",
+    "Soft ocean wave animations, petals drifting in the breeze & tranquil sunrise gradients",
+    "Aesthetic Custom Fonts: Modern Clean, Elegant Serif, Casual Cursive, Monospace Vibe & Heavy Bold",
+    "Standard 2x2 Home Screen Widget Size with full resizable expand/shrink support",
+    "Refined contrast typography for crisp, clear readability in both light & dark aesthetic modes"
   ]
 }
