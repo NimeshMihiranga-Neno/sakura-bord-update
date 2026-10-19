@@ -1,12 +1,13 @@
 {
-  "version": "1.0.7",
-  "versionCode": 11,
+  "version": "1.0.8",
+  "versionCode": 12,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "Ultra-Clean Calm Zen Aesthetic: Tranquil Ocean White waves and drifting petals vector art without flickering",
-    "Eliminated frame refresh flicker: Replaced choppy ViewFlipper with unified high-res vector canvas",
-    "Clean, advanced & professional 1x1 typography layout with big crisp day number and tracking labels",
-    "Full launcher resizability: scales smoothly from 1x1 squircle to large hero widget cards"
+    "Clean, Modern & Human-Crafted UI Redesign: Eliminated artificial AI-style gradients, excessive glows, and cheesy marketing buzzwords",
+    "Grounded Color System: Neutral Zinc/Charcoal surface architecture with authentic Sakura Rose accent",
+    "Flat, restrained card styling with clean hairline borders and zero muddy drop-shadows",
+    "Crisp typography hierarchy (sans-serif-medium, balanced proportions and letter-spacing)",
+    "Refined Navigation Drawer, Welcome Screen, Day Counter Customizer and Home Dashboard"
   ]
 }
