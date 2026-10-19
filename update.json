@@ -1,13 +1,12 @@
 {
-  "version": "1.0.8",
-  "versionCode": 12,
+  "version": "1.0.9",
+  "versionCode": 13,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "Clean, Modern & Human-Crafted UI Redesign: Eliminated artificial AI-style gradients, excessive glows, and cheesy marketing buzzwords",
-    "Grounded Color System: Neutral Zinc/Charcoal surface architecture with authentic Sakura Rose accent",
-    "Flat, restrained card styling with clean hairline borders and zero muddy drop-shadows",
-    "Crisp typography hierarchy (sans-serif-medium, balanced proportions and letter-spacing)",
-    "Refined Navigation Drawer, Welcome Screen, Day Counter Customizer and Home Dashboard"
+    "Refined Light Mode Surface Architecture: Enhanced background contrast (#F8FAFC) and crisp cards (#FFFFFF) with subtle 1.5dp micro-elevation",
+    "Soft Pastel Themed Icon Badges: Added elegant individual soft pastel tiles (Indigo, Sky, Rose, Emerald) for home shortcut cards",
+    "Enhanced Card Hierarchy: Eliminated the 'empty' feel in light theme while maintaining a clean, professional, non-AI aesthetic",
+    "Polished Hero Card: Sleek branded hero banner with version pill and balanced typography"
   ]
 }
