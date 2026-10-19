@@ -1,12 +1,13 @@
 {
-  "version": "1.0.2",
-  "versionCode": 6,
+  "version": "1.0.3",
+  "versionCode": 7,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "1,000+ Rich Emojis: Faces, Hands, Hearts, Animals, Food, Activity, Travel, Objects, Symbols & Flags",
-    "Horizontal Scrollable Emoji Category Bar with smooth pill tab navigation",
-    "Expanded Keyboard Symbols: math (+, =, %, *, ÷, ×, ±, <, >), currency ($, €, £, ¥, ₹, ¢), signs (©, ®, ™, ✓, °) and punctuation",
-    "High-Speed Typing and Dark Mode lag-free GPU rendering"
+    "New Feature: 🌸 Day Counter & Living Animated Home Screen Widget!",
+    "Customize Special Days, Notes, Anniversaries, Love Days & Exam Countdowns",
+    "6 Gorgeous Breathing Animated Themes: Sakura Dream, Love Romance, Cyber Neon, Gold Sparkle, Midnight Star & Emerald Fresh",
+    "Interactive Live Preview Card with 1-Tap 'Add Widget to Home Screen'",
+    "1,000+ Rich Emojis & Expanded Math, Currency & Keyboard Symbols"
   ]
 }
