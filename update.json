@@ -1,13 +1,13 @@
 {
-  "version": "1.0.0",
-  "versionCode": 4,
+  "version": "1.0.1",
+  "versionCode": 5,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "Sakura Board Official v1.0.0 Release",
-    "Default Toolbar එකේ පළමු තැනට Emoji Tool එක එක් කිරීම",
-    "Cute Text Tool එක Tool Hub එකට ඇතුළත් කිරීම",
-    "Navigation Bar Gap එක OS එකට ගැලපෙන සේ උස් කිරීම",
-    "Keys හිරවීම වැළැක්වීම සහ UI කාර්යක්ෂමතාව වැඩිදියුණු කිරීම"
+    "High-Speed Typing Optimization: Instant key dispatch with zero touch delay",
+    "Dark Theme & Animation Performance: 0-allocation GPU rendering with 30 FPS cap",
+    "Typing Auto-Pause: Footer animation freezes during typing bursts for 100% UI thread availability",
+    "Async Haptics & Disk I/O: Vibration IPC and word learning moved to background thread",
+    "Fast Binary-Search Word Sizing: Smoother predictive suggestion bar"
   ]
 }
