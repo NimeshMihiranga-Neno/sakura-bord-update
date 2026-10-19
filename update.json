@@ -1,13 +1,13 @@
 {
-  "version": "1.0.4",
-  "versionCode": 8,
+  "version": "1.0.5",
+  "versionCode": 9,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "New Calm Vibe & Ocean White Animated Themes for Day Counter Widget",
-    "Soft ocean wave animations, petals drifting in the breeze & tranquil sunrise gradients",
-    "Aesthetic Custom Fonts: Modern Clean, Elegant Serif, Casual Cursive, Monospace Vibe & Heavy Bold",
-    "Standard 2x2 Home Screen Widget Size with full resizable expand/shrink support",
-    "Refined contrast typography for crisp, clear readability in both light & dark aesthetic modes"
+    "Ultra-Professional Modern UI Redesign: Glassmorphism headers, fluid gradients & refined typography",
+    "Calm Vibe & Ocean White Waves Animated Themes with custom typography fonts",
+    "Enhanced Dashboard with high-contrast status feedback & responsive navigation pills",
+    "2x2 Resizable Home Screen Day Counter Widget with living animated backgrounds",
+    "High-speed zero-lag typing engine and 1,000+ emojis"
   ]
 }
