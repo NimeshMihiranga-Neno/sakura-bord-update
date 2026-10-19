@@ -1,13 +1,13 @@
 {
-  "version": "1.0.5",
-  "versionCode": 9,
+  "version": "1.0.6",
+  "versionCode": 10,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "Ultra-Professional Modern UI Redesign: Glassmorphism headers, fluid gradients & refined typography",
-    "Calm Vibe & Ocean White Waves Animated Themes with custom typography fonts",
-    "Enhanced Dashboard with high-contrast status feedback & responsive navigation pills",
-    "2x2 Resizable Home Screen Day Counter Widget with living animated backgrounds",
-    "High-speed zero-lag typing engine and 1,000+ emojis"
+    "New 1x1 Compact Home Screen Day Counter Widget with full dynamic resizability",
+    "Constant Background Color Mode: No flashing or color-shifting backgrounds",
+    "Aesthetic Living Motion: Sea Waves (මුහුදේ රැලි) and Falling Petals (මල් වැටෙන) smooth animated particles just like the keyboard spacebar footer",
+    "Custom typography font rendering with clean 1x1 responsive layouts",
+    "Ultra-Professional Glassmorphism app dashboard redesign"
   ]
 }
