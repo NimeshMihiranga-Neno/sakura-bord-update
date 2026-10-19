@@ -1,13 +1,12 @@
 {
-  "version": "1.0.1",
-  "versionCode": 5,
+  "version": "1.0.2",
+  "versionCode": 6,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "High-Speed Typing Optimization: Instant key dispatch with zero touch delay",
-    "Dark Theme & Animation Performance: 0-allocation GPU rendering with 30 FPS cap",
-    "Typing Auto-Pause: Footer animation freezes during typing bursts for 100% UI thread availability",
-    "Async Haptics & Disk I/O: Vibration IPC and word learning moved to background thread",
-    "Fast Binary-Search Word Sizing: Smoother predictive suggestion bar"
+    "1,000+ Rich Emojis: Faces, Hands, Hearts, Animals, Food, Activity, Travel, Objects, Symbols & Flags",
+    "Horizontal Scrollable Emoji Category Bar with smooth pill tab navigation",
+    "Expanded Keyboard Symbols: math (+, =, %, *, ÷, ×, ±, <, >), currency ($, €, £, ¥, ₹, ¢), signs (©, ®, ™, ✓, °) and punctuation",
+    "High-Speed Typing and Dark Mode lag-free GPU rendering"
   ]
 }
