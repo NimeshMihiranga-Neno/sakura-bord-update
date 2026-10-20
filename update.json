@@ -1,12 +1,12 @@
 {
-  "version": "1.0.12",
-  "versionCode": 16,
+  "version": "1.0.13",
+  "versionCode": 17,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "Ultra-Fast Sticker Loading: Instant 0ms sticker pack rendering with multi-tier disk & memory caching",
-    "Stutter-Free Keyboard Sticker Grid: Background asynchronous bitmap decoding with sampleSize optimization",
-    "Elevated Stickers Hub UI: Modern segmented pill controls, shimmering skeleton preview cards, and sleek emerald upload card",
-    "Enhanced Network Stability: Direct Fastly CDN index caching with automatic fallback"
+    "Frictionless Phone + Name Login: Fast, seamless login & sign-up using just your name and mobile number",
+    "Sinhala Typing Mode Setting: Choose your preferred style — Singlish (Phonetic - Default), Wijesekara (Direct), or Both",
+    "Smart Keyboard Mode Switch: Singlish toggles directly with English without cycling unwanted Wijesekara keys",
+    "Admin Control Center .EXE v1.0.13: Real-time user phone numbers & stats synchronization"
   ]
 }
