@@ -1,12 +1,12 @@
 {
-  "version": "1.0.11",
-  "versionCode": 15,
+  "version": "1.0.12",
+  "versionCode": 16,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "Supabase Backend & User Authentication Integration (Login, Sign Up, Profile, Sign Out)",
-    "Community Sticker Marketplace: Browse, download, and upload your own WhatsApp sticker packs",
-    "Live Community Typers: Real-time community presence tracking active Sakura Board users",
-    "Dual Sticker Hub: Seamless switching between Official GitHub packs and Community packs"
+    "Ultra-Fast Sticker Loading: Instant 0ms sticker pack rendering with multi-tier disk & memory caching",
+    "Stutter-Free Keyboard Sticker Grid: Background asynchronous bitmap decoding with sampleSize optimization",
+    "Elevated Stickers Hub UI: Modern segmented pill controls, shimmering skeleton preview cards, and sleek emerald upload card",
+    "Enhanced Network Stability: Direct Fastly CDN index caching with automatic fallback"
   ]
 }
