@@ -1,12 +1,12 @@
 {
-  "version": "1.0.15",
-  "versionCode": 19,
+  "version": "1.0.16",
+  "versionCode": 20,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "✨ All-New Magic Text Tool (මැජික් ටෙක්ස්ට්): Located in Tools Hub Row 3",
-    "🔁 Text Repeater Engine: Repeat any typed or selected text up to 200x (Strict 200 Max limit)",
-    "🎨 4 Multi-Select Style Options: With Number (1, 2, 3..), Wave (~ cascading shape), Sparkles & Emojis, and ZigZag / Reverse",
-    "⚡ 1-Tap Magic Commit & Copy: Seamlessly replace active text or copy to clipboard"
+    "📱 Auto-Adaptive Bottom Chin Height: Automatically matches each phone's exact Navigation Bar & Gestures",
+    "✨ Perfectly removes oversized bottom gap on 3-button nav phones and prevents bezel cramping",
+    "⚙️ Bottom Chin Height Customizer: Added Auto (Smart), Compact, Normal, and Comfort options in Settings",
+    "🪄 Magic Text Tool (මැජික් ටෙක්ස්ට්): Text repeater up to 200x with Wave, Numbers, Deco, and ZigZag"
   ]
 }
