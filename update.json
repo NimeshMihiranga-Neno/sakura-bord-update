@@ -1,12 +1,12 @@
 {
-  "version": "1.0.14",
-  "versionCode": 18,
+  "version": "1.0.15",
+  "versionCode": 19,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "Universal Key Appearance Card: Dedicated settings for Key Label Size (80%-135%) and Key Glass Opacity (20%-100%) across ALL themes",
-    "All-New Dark RGB Splash Theme: Stealth midnight dark keyboard with vibrant rainbow shockwaves and particles bursting on keypress",
-    "Chroma Shockwave Theme: Concentric chromatic neon ripples lighting up neighboring keys in real time",
-    "Instant Live Preview: Real-time visual feedback in playground and active keyboard"
+    "✨ All-New Magic Text Tool (මැජික් ටෙක්ස්ට්): Located in Tools Hub Row 3",
+    "🔁 Text Repeater Engine: Repeat any typed or selected text up to 200x (Strict 200 Max limit)",
+    "🎨 4 Multi-Select Style Options: With Number (1, 2, 3..), Wave (~ cascading shape), Sparkles & Emojis, and ZigZag / Reverse",
+    "⚡ 1-Tap Magic Commit & Copy: Seamlessly replace active text or copy to clipboard"
   ]
 }
