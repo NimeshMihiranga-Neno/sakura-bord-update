@@ -1,12 +1,13 @@
 {
-  "version": "1.0.16",
-  "versionCode": 20,
+  "version": "1.0.17",
+  "versionCode": 21,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "📱 Auto-Adaptive Bottom Chin Height: Automatically matches each phone's exact Navigation Bar & Gestures",
-    "✨ Perfectly removes oversized bottom gap on 3-button nav phones and prevents bezel cramping",
-    "⚙️ Bottom Chin Height Customizer: Added Auto (Smart), Compact, Normal, and Comfort options in Settings",
-    "🪄 Magic Text Tool (මැජික් ටෙක්ස්ට්): Text repeater up to 200x with Wave, Numbers, Deco, and ZigZag"
+    "⌨️ 3 New Mechanical Gaming RGB Keyboard Themes: Matrix Cyber Green, Chroma Wave, and Cyber Pulse",
+    "⚡ Per-Key Border Propagation: RGB light wave travels sharply through key borders and letters without circular canvas flooding",
+    "🪄 Magic Text Tool (මැජික් ටෙක්ස්ට්): Compact in-chat direct word detection and instant replacement (WhatsApp / chats)",
+    "🌐 Clean Language Localization: 100% pure Sinhala in Sinhala mode and English in English mode",
+    "📱 Auto-Adaptive Bottom Chin Height: Perfectly eliminates oversized bottom gap across all phone models"
   ]
 }
