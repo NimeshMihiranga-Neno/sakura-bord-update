@@ -1,12 +1,12 @@
 {
-  "version": "1.0.13",
-  "versionCode": 17,
+  "version": "1.0.14",
+  "versionCode": 18,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "Frictionless Phone + Name Login: Fast, seamless login & sign-up using just your name and mobile number",
-    "Sinhala Typing Mode Setting: Choose your preferred style — Singlish (Phonetic - Default), Wijesekara (Direct), or Both",
-    "Smart Keyboard Mode Switch: Singlish toggles directly with English without cycling unwanted Wijesekara keys",
-    "Admin Control Center .EXE v1.0.13: Real-time user phone numbers & stats synchronization"
+    "Universal Key Appearance Card: Dedicated settings for Key Label Size (80%-135%) and Key Glass Opacity (20%-100%) across ALL themes",
+    "All-New Dark RGB Splash Theme: Stealth midnight dark keyboard with vibrant rainbow shockwaves and particles bursting on keypress",
+    "Chroma Shockwave Theme: Concentric chromatic neon ripples lighting up neighboring keys in real time",
+    "Instant Live Preview: Real-time visual feedback in playground and active keyboard"
   ]
 }
