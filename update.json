@@ -1,13 +1,12 @@
 {
-  "version": "1.0.17",
-  "versionCode": 21,
+  "version": "1.0.18",
+  "versionCode": 22,
   "apkUrl": "https://github.com/NimeshMihiranga-Neno/sakura-bord-update/raw/main/SakuraBoard-Pro-v1.0.apk",
   "forceUpdate": false,
   "releaseNotes": [
-    "⌨️ 3 New Mechanical Gaming RGB Keyboard Themes: Matrix Cyber Green, Chroma Wave, and Cyber Pulse",
-    "⚡ Per-Key Border Propagation: RGB light wave travels sharply through key borders and letters without circular canvas flooding",
-    "🪄 Magic Text Tool (මැජික් ටෙක්ස්ට්): Compact in-chat direct word detection and instant replacement (WhatsApp / chats)",
-    "🌐 Clean Language Localization: 100% pure Sinhala in Sinhala mode and English in English mode",
-    "📱 Auto-Adaptive Bottom Chin Height: Perfectly eliminates oversized bottom gap across all phone models"
+    "🌈 Brand New 'Mech Neon Flow' Theme: Authentic localized Gaming Mechanical Keyboard border aura",
+    "⚡ Localized Border Ripple: Light pulses cleanly around adjacent keys (1.5-2 key radius) without traveling too far across the board",
+    "✨ Radiant Multi-Neon Spectrum: Neon Cyan, Hot Pink, Electric Violet, and Neon Lime border transitions",
+    "⌨️ All previous themes preserved with their full travel effects intact"
   ]
 }
